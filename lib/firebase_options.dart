@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCQKipPc_LT2qywt1nkk6hP9MQ3KT9nOew',
+    apiKey: '',
     appId: '1:78782712918:web:bf63036f3fd70d305cfff7',
     messagingSenderId: '78782712918',
     projectId: 'house-of-tasty-e7857',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAZwQuRtw08FBenXKx4RUFpq8dWeAWpQ0c',
+    apiKey: '',
     appId: '1:78782712918:ios:0ac55aa4abb20d095cfff7',
     messagingSenderId: '78782712918',
     projectId: 'house-of-tasty-e7857',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAZwQuRtw08FBenXKx4RUFpq8dWeAWpQ0c',
+    apiKey: '',
     appId: '1:78782712918:ios:71703d782f85d8a25cfff7',
     messagingSenderId: '78782712918',
     projectId: 'house-of-tasty-e7857',
